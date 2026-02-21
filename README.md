@@ -11,9 +11,8 @@
 
 ##  Gabriel Macena
 
-- 📚 Técnico em Desenvolvimento de Sistemas
-- 🇧🇷 Competidor Brazil na WordSkills Lyon 2024
-- 👨🏻‍💻 Desenvolvedor de aplicativos
+- 📚 De engenheiro mecânico a engenheiro de cloud
+- 👨🏻‍💻 SRE e Devops 
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
 
