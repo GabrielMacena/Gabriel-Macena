@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou Gabs!
 
-## 🐍 Minha atividade no GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&border_radius=5&fire=DD2727)
+## 🐍 Snake Game dos Commits
+![Snake GitHub](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 ---
 
@@ -32,8 +32,3 @@
     <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30"/>
   </a>
 </p>
-
----
-
-## 📊 Minhas estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
