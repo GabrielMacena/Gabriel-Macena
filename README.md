@@ -35,9 +35,9 @@
 ## 📫 Onde me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-macena-605a13b9/" target="_blank">
-    <img alt="LinkedIn" src="https://www.flaticon.com/free-icon/linkedin_3536505" width="40" height="40"/>
+    <img alt="LinkedIn" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" width="40" height="40"/>
   </a>
   <a href="mailto:eugabrielmacena@gmail.com" target="_blank">
-    <img alt="Email" src="https://www.flaticon.com/free-icon/gmail_732200?term=gmail&page=1&position=1&origin=search&related_id=732200" width="40" height="40"/>
+    <img alt="Email" src="https://icons8.com/icon/37246/gmail-logo" width="40" height="40"/>
   </a>
 </p>
