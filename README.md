@@ -29,15 +29,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## 📫 Onde me encontrar
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-macena-605a13b9/" target="_blank">
-    <img alt="LinkedIn" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" width="40" height="40"/>
-  </a>
-  <a href="mailto:eugabrielmacena@gmail.com" target="_blank">
-    <img alt="Email" src="https://icons8.com/icon/37246/gmail-logo" width="40" height="40"/>
-  </a>
-</p>
