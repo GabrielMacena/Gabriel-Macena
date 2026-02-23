@@ -11,7 +11,7 @@
 
 ##  Gabriel Macena
 
-- 📚 De engenheiro mecânico a engenheiro de cloud
+- 📚 De Engenheiro Mecânico a Engenheiro de Cloud
 - 👨🏻‍💻 SRE e Devops 
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
